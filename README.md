@@ -5,7 +5,7 @@ https://giomoreira.github.io/Portfolio/
 - 🔭 I’m currently working as Software Architect Junior.
 - 🌱 I’m graduating as Software Engineer at UNIFIL.
 - 👯 I'd love to work as front-end developer.
-- 📫 Reach me: sgiomoreira@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/GioMoreira">
