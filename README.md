@@ -3,8 +3,8 @@
 https://giomoreira.github.io/Portfolio/
 
 - 🔭 I’m currently working as Software Architect Junior.
-- 🌱 I’m graduating as Software Engineer at UNIFIL.
-- 👯 I'd love to work as front-end developer.
+- 🌱 I’m graduating as Software Engineer at UNICESUMAR.
+
 
 
 <div align="center">
